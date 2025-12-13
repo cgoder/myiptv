@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #4K
-#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/4KUHD.png" group-title="4K频道",4KUHD
-http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/4K修复.png" group-title="4K频道",4K修复
-http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/CCTV4K.png" group-title="4K频道",CCTV4K超高清
 http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/CCTV8K.png" group-title="4K频道",CCTV8K超高清
@@ -40,10 +36,18 @@ http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/苏州4K.png" group-title="4K频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/4KUHD.png" group-title="4K频道",4KUHD
+http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/4K修复.png" group-title="4K频道",4K修复
+http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="华数4K" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/华数.png" group-title="4K频道",华数4K
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000003000004748/wasusyt/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/上海欢笑剧场4K.png" group-title="4K频道",欢笑剧场4K
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/睛彩篮球.png" group-title="4K频道",睛彩篮球
+http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/睛彩竞技.png" group-title="4K频道",睛彩竞技
+http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
 
 
 #央视
