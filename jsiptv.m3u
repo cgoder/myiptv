@@ -42,6 +42,9 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="华数4K" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/华数.png" group-title="数字",华数4K
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000003000004748/wasusyt/index.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/bestzb/index.m3u8
+
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/cgoder/myiptv/main/logo/CCTV1.png" group-title="央视",CCTV-1 综合
