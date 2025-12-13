@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.org/raw.githubusercontent.com/mytv-android/myEPG/master/output/epg.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #4K
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/cgoder/myiptv/main/logo/4KUHD.png" group-title="4K频道",4KUHD
